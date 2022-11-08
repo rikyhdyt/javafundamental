@@ -1,4 +1,4 @@
-package javafundamental;
+package day2;
 import java.util.Random;
 /*
 @Author {user} a.k.a. Riky
