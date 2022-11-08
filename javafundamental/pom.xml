@@ -4,7 +4,16 @@
 	        <maven.compiler.source>17</maven.compiler.source>
 	        <maven.compiler.target>17</maven.compiler.target>
   </properties>
+  
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc -->
+<dependency>
+    <groupId>org.xerial</groupId>
+    <artifactId>sqlite-jdbc</artifactId>
+    <version>3.39.4.0</version>
+</dependency>
 
+  </dependencies>
   <groupId>com.bcafinance</groupId>
   <artifactId>javafundamental</artifactId>
   <version>0.0.1-SNAPSHOT</version>
